@@ -1,8 +1,8 @@
 import psycopg2 as pg
 
-with open('ipl_ddl.sql', 'r') as file:
+with open('PS/ipl_ddl.sql', 'r') as file:
     crt = file.read()
-with open('ipl_data.sql', 'r') as file:
+with open('PS/ipl_data.sql', 'r') as file:
     ins = file.read()
 
 conn = pg.connect(database='Lab2', user='postgres',
