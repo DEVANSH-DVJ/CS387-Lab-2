@@ -1,0 +1,9 @@
+Delhi Daredevils,97
+Chennai Super Kings,45
+Mumbai Indians,44
+Sunrisers Hyderabad,35
+Rajasthan Royals,26
+Sunrisers Hyderabad,22
+Rajasthan Royals,19
+Kings XI Punjab,18
+Royal Challengers Bangalore,15
